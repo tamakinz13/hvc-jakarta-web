@@ -2,5 +2,5 @@
 // Pastikan URL diakhiri dengan /exec, bukan /dev.
 // Contoh: https://script.google.com/macros/s/AKfycbxxxxxxxx/exec
 window.HVC_CONFIG = {
-  appUrl: "https://script.google.com/macros/s/AKfycbyKI_bfrgcb7uExNtfvjoq_cZoCkWG59gS0b9jZgWOqO8RJqdQW3qfhZ9GPGaiHtthG/exec"
+  appUrl: "https://script.google.com/macros/s/AKfycbwmkpD00aU26_lv_o4pXS1vF4JI364C2g4wNdNqILxhpaD2zf29jwAMP54mxB9-XtlV/exec"
 };
