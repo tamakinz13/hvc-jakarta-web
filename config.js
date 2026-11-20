@@ -1,3 +1,3 @@
 window.HVC_CONFIG = {
-  appUrl: "https://script.google.com/macros/s/AKfycbwmkpD00aU26_lv_o4pXS1vF4JI364C2g4wNdNqILxhpaD2zf29jwAMP54mxB9-XtlV/exec"
+  appUrl: "https://script.google.com/macros/s/AKfycbxKd_sDoIl2oO5MpNuD89pildaHxXuEppJBGkgi8ThBlguzCRLOrayw1_YiWDSbaInq/exec"
 };
